@@ -1,0 +1,354 @@
+.spd_timeline_core{
+    position: absolute;
+    width: 100%;
+    top: 100%;
+    top: calc(100% - 30px);
+    top: -moz-calc(100% - 30px);
+    left: 0px;
+    background: #000000;
+    background: linear-gradient(bottom, rgba(0,0,0,0.7), rgba(0,0,0,0.1));
+    background: -ms-linear-gradient(bottom, rgba(0,0,0,0.7), rgba(0,0,0,0.1));
+    background: -moz-linear-gradient(bottom, rgba(0,0,0,0.7), rgba(0,0,0,0.1));
+    background: -webkit-linear-gradient(bottom, rgba(0,0,0,0.7), rgba(0,0,0,0.1));
+    background: -o-linear-gradient(bottom, rgba(0,0,0,0.7), rgba(0,0,0,0.1));
+    height: 30px;
+}
+
+.spd_play_btn,.spd_stop_btn,.spd_repeat_btn{
+    width: 40px;
+    height: 30px;
+    box-sizing: border-box;
+    position: relative;
+    float: left;
+    cursor: pointer;
+
+    background-position: center center;
+    background-repeat: no-repeat;
+
+    transition: transform 0.1s, -ms-transform 0.1s, -moz-transform 0.1s, -webkit-transform 0.1s, -o-transform 0.1s;
+    -webkit-transition: transform 0.1s, -ms-transform 0.1s, -moz-transform 0.1s, -webkit-transform 0.1s, -o-transform 0.1s;
+}
+
+
+.spd_play_btn:hover,.spd_stop_btn:hover,.spd_repeat_btn:hover{
+    transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    cursor: pointer;
+}
+
+.spd_play_btn > .spd_playstop_btn1{
+    position: absolute;
+    width: 5px;
+    height: 15px;
+    background-color: #FFFFFF;
+
+    border-radius: 3px;
+    -ms-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -o-border-radius: 3px;
+
+    transform: rotate(135deg);
+    -ms-transform: rotate(135deg);
+    -moz-transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+    -o-transform: rotate(135deg);
+
+    transition: transform 0.2s, -ms-transform 0.2s, -moz-transform 0.2s, -webkit-transform 0.2s, -o-transform 0.2s, top 0.2s, left 0.2s;
+    -webkit-transition: transform 0.2s, -ms-transform 0.2s, -moz-transform 0.2s, -webkit-transform 0.2s, -o-transform 0.2s, top 0.2s, left 0.2s;
+
+    top: 50%;
+    top: calc(50% - 11px);
+    top: -moz-calc(50% - 11px);
+    left: 50%;
+    left: calc(50% - 2.5px);
+    left: -moz-calc(50% - 2.5px);
+}
+
+.spd_play_btn > .spd_playstop_btn2{
+    position: absolute;
+    width: 5px;
+    height: 15px;
+    background-color: #FFFFFF;
+
+    border-radius: 3px;
+    -ms-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -o-border-radius: 3px;
+
+    transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+
+    transition: transform 0.2s, -ms-transform 0.2s, -moz-transform 0.2s, -webkit-transform 0.2s, -o-transform 0.2s, top 0.2s, left 0.2s;
+    -webkit-transition: transform 0.2s, -ms-transform 0.2s, -moz-transform 0.2s, -webkit-transform 0.2s, -o-transform 0.2s, top 0.2s, left 0.2s;
+
+    top: 50%;
+    top: calc(50% - 4px);
+    top: -moz-calc(50% - 4px);
+    left: 50%;
+    left: calc(50% - 2.5px);
+    left: -moz-calc(50% - 2.5px);
+}
+
+.spd_play_btn > .spd_playstop_btn3{
+    visibility: hidden;
+}
+
+.spd_stop_btn > .spd_playstop_btn1{
+    position: absolute;
+    width: 5px;
+    height: 15px;
+    background-color: #FFFFFF;
+
+    border-radius: 3px;
+    -ms-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -o-border-radius: 3px;
+
+    transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+
+    transition: transform 0.2s, -ms-transform 0.2s, -moz-transform 0.2s, -webkit-transform 0.2s, -o-transform 0.2s, top 0.2s, left 0.2s;
+    -webkit-transition: transform 0.2s, -ms-transform 0.2s, -moz-transform 0.2s, -webkit-transform 0.2s, -o-transform 0.2s, top 0.2s, left 0.2s;
+
+    top: 50%;
+    top: calc(50% - 7.5px);
+    top: -moz-calc(50% - 7.5px);
+    left: 12.5px;
+}
+
+.spd_stop_btn > .spd_playstop_btn2{
+    position: absolute;
+    width: 5px;
+    height: 15px;
+    background-color: #FFFFFF;
+
+    border-radius: 3px;
+    -ms-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -o-border-radius: 3px;
+
+    transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+
+    transition: transform 0.2s, -ms-transform 0.2s, -moz-transform 0.2s, -webkit-transform 0.2s, -o-transform 0.2s, top 0.2s, left 0.2s;
+    -webkit-transition: transform 0.2s, -ms-transform 0.2s, -moz-transform 0.2s, -webkit-transform 0.2s, -o-transform 0.2s, top 0.2s, left 0.2s;
+
+    top: 50%;
+    top: calc(50% - 7.5px);
+    top: -moz-calc(50% - 7.5px);
+    left: 22.5px;
+}
+
+.spd_stop_btn > .spd_playstop_btn3{
+    visibility: hidden;
+}
+
+.spd_repeat_btn > .spd_playstop_btn1{
+    visibility: hidden;
+}
+.spd_repeat_btn > .spd_playstop_btn2{
+    visibility: hidden;
+}
+.spd_repeat_btn > .spd_playstop_btn3{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(images/repeat.png);
+}
+
+#spd_durationbar_btn{
+    width: 100%;
+    width: calc(100% - (40px + 110px + 40px + 40px + 40px));
+    width: -moz-calc(100% - (40px + 110px + 40px + 40px + 40px));
+    height: 30px;
+    position: relative;
+    box-sizing: border-box;
+    float: left;
+}
+
+#spd_playedbar_btn{
+    width: 0%;
+    position: absolute;
+    left: 0px;
+    height: 7px;
+    
+    top: 50%;
+    top: calc(50% - 3.5px);
+    top: -moz-calc(50% - 3.5px);
+
+    border-radius: 3px;
+    -ms-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -o-border-radius: 3px;
+
+    /*transition: width 0.1s linear;
+    -webkit-transition: width 0.1s linear;*/
+}
+
+#spd_totalbar_btn{
+    width: 100%;
+    position: absolute;
+    left: 0px;
+    height: 7px;
+    background: #CCCCCC;
+    top: 50%;
+    top: calc(50% - 3.5px);
+    top: -moz-calc(50% - 3.5px);
+
+    border-radius: 3px;
+    -ms-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -o-border-radius: 3px;
+
+    /*transition: width 0.1s linear;
+    -webkit-transition: width 0.1s linear;*/
+}
+
+#spd_circlebar_btn{
+    position: absolute;
+    box-sizing: border-box;
+    width: 20px;
+    height: 20px;
+
+    border-radius: 50%;
+    -ms-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -o-border-radius: 50%;
+
+    border:#FFF solid 4px;
+
+    left: 0px;
+    top: 50%;
+    top: calc(50% - 10px);
+    top: -moz-calc(50% - 10px);
+
+    /*transition: left 0.1s linear;
+    -webkit-transition: left 0.1s linear;*/
+}
+
+#spd_total_current{
+    position: relative;
+    float: left;
+    width: 110px;
+    height: 30px;
+    box-sizing: border-box;
+}
+
+#spd_current_txt,#spd_total_txt{
+    position: absolute;
+    width: 50px;
+    height: 100%;
+    font-family: Arial;
+    font-size: 14px;
+    color: #FFFFFF;
+    line-height: 30px;
+    top: 0px;
+}
+#spd_separador_txt{
+    position: absolute;
+    width: 10px;
+    height: 100%;
+    font-family: Arial;
+    font-size: 14px;
+    color: #FFFFFF;
+    text-align: center;
+    line-height: 30px;
+    left:50px;
+    top: 0px;
+}
+#spd_current_txt{
+    left: 0px;
+    text-align: right;
+}
+#spd_total_txt{
+    left: 60px;
+    text-align: left;
+}
+
+#spd_buttons{
+    position: relative;
+    float: left;
+    box-sizing: border-box;
+    width: 40px;
+    width: calc(40px * 3);
+    width: -moz-calc(40px * 3);
+    height: 30px;
+}
+
+#spd_cc_btn,#spd_sound_btn,#spd_fullscreen_btn{
+    width: 40px;
+    height: 30px;
+    float: left;
+    position: relative;
+    background-position: center center;
+    background-repeat: no-repeat;
+
+    transition: transform 0.1s, -ms-transform 0.1s, -moz-transform 0.1s, -webkit-transform 0.1s, -o-transform 0.1s;
+    -webkit-transition: transform 0.1s, -ms-transform 0.1s, -moz-transform 0.1s, -webkit-transform 0.1s, -o-transform 0.1s;
+}
+#spd_cc_btn:hover,#spd_sound_btn:hover,#spd_fullscreen_btn:hover{
+    transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    cursor: pointer;
+}
+
+.spd_cc_on_btn{
+    background-image:url(images/cc_on.png);
+}
+.spd_sound_on_btn{
+    background-image:url(images/sound_on.png);
+}
+.spd_fullscreen_on_btn{
+    background-image:url(images/fullscreen_on.png);
+}
+.spd_cc_off_btn{
+    background-image:url(images/cc_off.png);
+}
+.spd_sound_off_btn{
+    background-image:url(images/sound_off.png);
+}
+.spd_fullscreen_btn{
+    background-image:url(images/fullscreen.png);
+}
+.spd_fullscreen_off_btn{
+    background-image:url(images/fullscreen_off.png);
+}
+
+#spd_zone_btn{
+    width: 100%;
+    height: 10px;
+    cursor: pointer;
+    background: rgba(0,0,0,0);
+    top: 50%;
+    top: calc(50% - 5px);
+    top: -moz-calc(50% - 5px);
+    left: 0px;
+    position: absolute;
+}

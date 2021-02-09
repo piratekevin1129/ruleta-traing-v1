@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Quien quiere ser millonario</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<script>
+window.addEventListener('message', (event) => {
+    console.log('Mensaje',event.data)
+    var msg_data = event.data
+    if(msg_data.admin === true){
+        location.href = 'admin/index.php?a='+event.data.account+'&c='+event.data.course
+    }else{
+        location.href = 'game/index.php?a='+event.data.account+'&c='+event.data.course
+    }
+});
+window.onload = function(){
+    window.top.postMessage({'w': 705, 'h': 600, 'name': 'Quien quiere ser millonario'}, '*' );
+}
+</script>
+</body>
+</html>

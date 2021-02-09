@@ -1,0 +1,59 @@
+{
+	"id": "1",
+	"curso": 1,
+	"nombre": "Fortune Wheel",
+	"datos_basicos": "no",
+	"data": {
+		"preguntas": [{
+			"pregunta": "Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1",
+			"tipo": 2,
+			"a": "1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1",
+			"b": "21 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1",
+			"c": "31 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1",
+			"d": "1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+14",
+			"rc": 4,
+			"complete": 0,
+			"disponible": 0
+		},{
+			"pregunta": "Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1",
+			"tipo": 2,
+			"a": "1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1",
+			"b": "21 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1",
+			"c": "31 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1",
+			"d": "1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+14",
+			"rc": 4,
+			"complete": 0,
+			"disponible": 0
+		},{
+			"pregunta": "Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1",
+			"tipo": 2,
+			"a": "1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1",
+			"b": "21 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1",
+			"c": "31 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1",
+			"d": "1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+1 Cuanto es 1+14",
+			"rc": 4,
+			"complete": 0,
+			"disponible": 0
+		}],
+		"retos": [{
+			"reto": "Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalgaHaga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalgaHaga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalgaHaga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalgaHaga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalgaHaga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalgaHaga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalgaHaga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga",
+			"disponible": 0,
+			"complete": 0
+		},{
+			"reto": "Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalgaHaga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalgaHaga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalgaHaga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalgaHaga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalgaHaga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalgaHaga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalgaHaga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga",
+			"disponible": 0,
+			"complete": 0
+		},{
+			"reto": "Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalgaHaga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalgaHaga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalgaHaga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalgaHaga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalgaHaga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalgaHaga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalgaHaga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga Haga el 1 con la nalga",
+			"disponible": 0,
+			"complete": 0
+		}],
+		"colores": ["c900fb", "ed1c24", "fcd70c", "0391ff", "01cd44"],
+		"final": "bien bien",
+		"final2": "Ganaste la ruleta",
+		"vidas": "5",
+		"ganar": "5",
+		"total_partes": 0,
+		"premio": 0
+	}
+}

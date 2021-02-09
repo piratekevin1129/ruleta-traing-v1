@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+p{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial;
+    color: #000000;
+}
+div{
+    box-sizing: border-box;
+}

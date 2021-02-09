@@ -1,0 +1,9 @@
+mensaje window cuando gana el juego
+responsive
+administrador
+
+si la respuesta está vacia no incluirla
+bug img del texto cortada en firefox
+
+mejorar admin qqsm, numero de preguntas
+mejorar admins comprimir acordeon actual

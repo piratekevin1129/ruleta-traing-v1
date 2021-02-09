@@ -1,0 +1,64 @@
+.spd_scale_marco{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(255,0,0,0);
+    cursor: move;
+}
+
+.spd_move_mark{
+    cursor: move;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 0px 1px #0000FF;
+    -ms-box-shadow: 0px 0px 0px 1px #0000FF;
+    -moz-box-shadow: 0px 0px 0px 1px #0000FF;
+    -webkit-box-shadow: 0px 0px 0px 1px #0000FF;
+    -o-box-shadow: 0px 0px 0px 1px #0000FF;
+}
+
+.spd_scale_mark{
+    cursor: move;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 0px 1px #0000FF;
+    -ms-box-shadow: 0px 0px 0px 1px #0000FF;
+    -moz-box-shadow: 0px 0px 0px 1px #0000FF;
+    -webkit-box-shadow: 0px 0px 0px 1px #0000FF;
+    -o-box-shadow: 0px 0px 0px 1px #0000FF;
+}
+
+.spd_scale_mark_h{
+    width: 12px;
+    height: 12px;
+    background-color: #0000FF;
+    position: absolute;
+    top: 50%;
+    top: calc(50% - 6px);
+    top: -moz-calc(50% - 6px);
+    left: 100%;
+    left: calc(100% - 6px);
+    left: -moz-calc(100% - 6px);
+    cursor: e-resize;
+}
+.spd_scale_mark_v{
+    content: "";
+    width: 12px;
+    height: 12px;
+    background-color: #0000FF;
+    position: absolute;
+    top: 100%;
+    top: calc(100% - 6px);
+    top: -moz-calc(100% - 6px);
+    left: 50%;
+    left: calc(50% - 6px);
+    left: -moz-calc(50% - 6px);
+    cursor: n-resize;
+}
+
+.spd_scale_corner{
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    background-color: #0000FF;
+}

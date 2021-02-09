@@ -1,0 +1,143 @@
+{
+	"id": "1",
+	"curso": 1,
+	"nombre": "Fortune Wheel",
+	"datos_basicos": "no",
+	"data": {
+		"preguntas": [{
+			"pregunta": "Cuanto es 2+2",
+			"tipo": 2,
+			"a": "1",
+			"b": "2",
+			"c": "3",
+			"d": "4",
+			"rc": 4,
+			"complete": 0,
+			"disponible": 0
+		}, {
+			"pregunta": "Cuanto es 3+3",
+			"tipo": 2,
+			"a": "6",
+			"b": "7",
+			"c": "8",
+			"d": "9",
+			"rc": 1,
+			"complete": 0,
+			"disponible": 0
+		}, {
+			"pregunta": "Cuanto es 4+4",
+			"tipo": 2,
+			"a": "8",
+			"b": "9",
+			"c": "10",
+			"d": "11",
+			"rc": 1,
+			"complete": 0,
+			"disponible": 0
+		}, {
+			"pregunta": "Cuanto es 5+5",
+			"tipo": 2,
+			"a": "10",
+			"b": "11",
+			"c": "12",
+			"d": "13",
+			"rc": 1,
+			"complete": 0,
+			"disponible": 0
+		}, {
+			"pregunta": "Cuanto es 1+1",
+			"tipo": 2,
+			"a": "2",
+			"b": "3",
+			"c": "4",
+			"d": "5",
+			"rc": 1,
+			"complete": 0,
+			"disponible": 0
+		}, {
+			"pregunta": "Cuanto es 6+6",
+			"tipo": 2,
+			"a": "12",
+			"b": "13",
+			"c": "14",
+			"d": "15",
+			"rc": 1,
+			"complete": 0,
+			"disponible": 0
+		}, {
+			"pregunta": "Cuanto es 7+7",
+			"tipo": 2,
+			"a": "14",
+			"b": "15",
+			"c": "16",
+			"d": "17",
+			"rc": 1,
+			"complete": 0,
+			"disponible": 0
+		}, {
+			"pregunta": "Cuanto es 8+8",
+			"tipo": 2,
+			"a": "16",
+			"b": "17",
+			"c": "18",
+			"d": "19",
+			"rc": 1,
+			"complete": 0,
+			"disponible": 0
+		}, {
+			"pregunta": "Cuanto es 9+9",
+			"tipo": 2,
+			"a": "18",
+			"b": "19",
+			"c": "20",
+			"d": "21",
+			"rc": 1,
+			"complete": 0,
+			"disponible": 0
+		}],
+		"retos": [{
+			"reto": "Bailaa!!",
+			"disponible": 0,
+			"complete": 0
+		}, {
+			"reto": "Haz los numeros con la nalga del 1 al 2",
+			"disponible": 0,
+			"complete": 0
+		}, {
+			"reto": "Haz los numeros con la nalga del 1 al 3",
+			"disponible": 0,
+			"complete": 0
+		}, {
+			"reto": "Haz los numeros con la nalga del 1 al 4",
+			"disponible": 0,
+			"complete": 0
+		}, {
+			"reto": "Haz los numeros con la nalga del 1 al 5",
+			"disponible": 0,
+			"complete": 0
+		}, {
+			"reto": "Haz los numeros con la nalga del 1 al 6",
+			"disponible": 0,
+			"complete": 0
+		}, {
+			"reto": "Haz los numeros con la nalga del 1 al 7",
+			"disponible": 0,
+			"complete": 0
+		}, {
+			"reto": "Haz los numeros con la nalga del 1 al 8",
+			"disponible": 0,
+			"complete": 0
+		}, {
+			"reto": "Haz los numeros con la nalga del 1 al 9",
+			"disponible": 0,
+			"complete": 0
+		}],
+		"colores": ["c900fb", "ed1c24", "fcd70c", "0391ff", "01cd44"],
+		"final": "bien bien",
+		"final2": "Ganaste la ruleta",
+		"vidas": "5",
+		"ganar": "5",
+		"total_partes": 0,
+		"premio": 0
+	}
+}

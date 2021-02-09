@@ -1,0 +1,42 @@
+#cc{
+    position: absolute;
+    top: 100%;
+    top: calc(100% - 60px);
+    top: -moz-calc(100% - 60px);
+    left: 0px;
+    box-sizing: border-box;
+    padding: 0px 10px;
+}
+#cc div{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+}
+
+#cc_txt{
+    margin: 0px;
+    width: 100%;
+    padding: 5px 0px;
+    box-sizing: border-box;
+    font-family: Arial;
+    font-size: 14px;
+    color: #FFFFFF;
+    text-align: center;
+    position: relative;
+}
+.cc_on{
+    visibility: visible;
+    opacity: 1;
+
+    transition: visibility 0s, opacity 0.5s;
+    -webkit-transition: visibility 0s, opacity 0.5s;
+}
+.cc_off{
+    visibility: hidden;
+    opacity: 0;
+
+    transition: visibility 0.5s, opacity 0.5s;
+    -webkit-transition: visibility 0.5s, opacity 0.5s;
+}
